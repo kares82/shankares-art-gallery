@@ -17,8 +17,8 @@ const About = () => {
   return (
     <Layout>
       <SEOHead
-        title="About Shankares — Self-Taught Malaysian Abstract Artist in France"
-        description="Learn about Shankares, a self-taught Malaysian abstract artist based in France. Instinct-driven acrylic paintings that celebrate imperfection, texture, and the beauty of happy accidents."
+        title="About Shankares — Self-Taught Malaysian Abstract Artist in Europe"
+        description="Learn about Shankares, a self-taught Malaysian abstract artist based in Europe. Instinct-driven acrylic paintings that celebrate imperfection, texture, and the beauty of happy accidents."
         canonical="https://shankares.art/about"
         jsonLd={aboutJsonLd}
       />
