@@ -1,5 +1,4 @@
 import { motion } from 'framer-motion';
-import artistPortrait from '@/assets/artist-portrait.jpg';
 
 export const AboutSection = () => {
   return (
@@ -7,26 +6,11 @@ export const AboutSection = () => {
       {/* Bio Section */}
       <div className="section-spacing">
         <div className="gallery-container">
-          <div className="grid md:grid-cols-2 gap-12 md:gap-20 items-start">
-            {/* Portrait */}
-            <motion.div
-              initial={{ opacity: 0, x: -30 }}
-              whileInView={{ opacity: 1, x: 0 }}
-              viewport={{ once: true }}
-              transition={{ duration: 0.8 }}
-            >
-              <img
-                src={artistPortrait}
-                alt="Shankares, Malaysian abstract artist based in Europe, in his studio"
-                className="w-full max-w-md shadow-artwork"
-                loading="lazy"
-              />
-            </motion.div>
-
+          <div className="max-w-4xl mx-auto">
             {/* Bio Content */}
             <motion.div
-              initial={{ opacity: 0, x: 30 }}
-              whileInView={{ opacity: 1, x: 0 }}
+              initial={{ opacity: 0, y: 20 }}
+              whileInView={{ opacity: 1, y: 0 }}
               viewport={{ once: true }}
               transition={{ duration: 0.8 }}
               className="space-y-6"
