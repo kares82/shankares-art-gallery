@@ -206,7 +206,7 @@ const Contact = () => {
               <div>
                 <h3 className="font-display text-xl mb-3">Location</h3>
                 <p className="text-muted-foreground text-sm">
-                  Based in France
+                  Based in Europe
                 </p>
               </div>
             </motion.div>

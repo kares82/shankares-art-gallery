@@ -17,7 +17,7 @@ export const AboutSection = () => {
             >
               <img
                 src={artistPortrait}
-                alt="Shankares, Malaysian abstract artist based in France, in his studio"
+                alt="Shankares, Malaysian abstract artist based in Europe, in his studio"
                 className="w-full max-w-md shadow-artwork"
                 loading="lazy"
               />
@@ -33,7 +33,7 @@ export const AboutSection = () => {
             >
               <div>
                 <span className="text-sm tracking-gallery uppercase text-muted-foreground">
-                  Malaysian Artist in France
+                  Malaysian Artist Based in Europe
                 </span>
                 <h2 className="font-display text-3xl md:text-4xl mt-2">
                   About Shankares
@@ -42,7 +42,7 @@ export const AboutSection = () => {
 
               <div className="space-y-4 text-muted-foreground leading-relaxed">
                 <p>
-                  I'm Shankares, Malaysian, living in France.
+                  I'm Shankares, a Malaysian artist based in Europe.
                 </p>
 
                 <p>
@@ -60,7 +60,7 @@ export const AboutSection = () => {
                 </p>
 
                 <p>
-                  Living between Malaysian roots and French everyday life probably influences my 
+                  Living between Malaysian roots and European everyday life probably influences my 
                   comfort with things that exist in-between: not quite abstract, not quite 
                   figurative, not fitting into neat categories.
                 </p>

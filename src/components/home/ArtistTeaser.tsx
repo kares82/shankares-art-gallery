@@ -41,7 +41,7 @@ export const ArtistTeaser = () => {
               The Journey of Color
             </h2>
             <p className="text-muted-foreground leading-relaxed mb-6">
-              Born in Malaysia and now creating from his studio in France, Shankares brings together 
+              Born in Malaysia and now creating from his studio in Europe, Shankares brings together 
               Eastern philosophy and Western expression in bold, textured abstract works. Each painting 
               is a meditation on imperfection, a celebration of the unexpected beauty found in 
               spontaneous creation.

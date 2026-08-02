@@ -271,7 +271,7 @@ export const ArtworkModal = ({ artwork, isOpen, onClose }: ArtworkModalProps) =>
                       </AccordionTrigger>
                       <AccordionContent className="text-sm text-muted-foreground">
                         <p>
-                          Shankares is a Malaysian abstract artist based in France. His work 
+                          Shankares is a Malaysian abstract artist based in Europe. His work 
                           explores the interplay of Eastern philosophy and Western expressionism.
                         </p>
                       </AccordionContent>

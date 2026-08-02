@@ -54,7 +54,7 @@ export const HeroSlideshow = () => {
             SHANKARES
           </h1>
           <p className="text-lg md:text-xl tracking-gallery uppercase opacity-90 mb-10">
-            Abstract Art • Malaysian Artist in France
+            Abstract Art • Malaysian Artist in Europe
           </p>
           <a 
             href="#gallery" 
