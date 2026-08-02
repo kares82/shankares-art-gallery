@@ -11,19 +11,8 @@ export const Footer = () => {
     <footer className="bg-secondary py-16 md:py-20" role="contentinfo">
       <div className="gallery-container">
         <div className="grid grid-cols-1 md:grid-cols-3 gap-12 md:gap-8">
-          {/* Brand */}
-          <div className="md:col-span-2">
-            <Link to="/" className="font-display text-2xl tracking-wide">
-              SHANKARES
-            </Link>
-            <p className="mt-4 text-muted-foreground max-w-md">
-              Original abstract paintings by Malaysian artist Shankares, created in the heart of Europe. 
-              Each piece is a unique expression of emotion, color, and movement.
-            </p>
-          </div>
-
           {/* Info & Legal */}
-          <div>
+          <div className="md:col-span-3">
             <h4 className="font-display text-lg mb-4">Information</h4>
             <nav className="flex flex-col gap-3">
               <Link to="/shipping-returns" className="text-muted-foreground hover:text-foreground transition-colors">
