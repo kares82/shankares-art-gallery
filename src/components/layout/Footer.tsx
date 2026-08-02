@@ -73,10 +73,7 @@ export const Footer = () => {
               © 2026 Red Triangle Enterprise. All rights reserved.
             </p>
             <p className="text-xs text-muted-foreground">
-              Red Triangle Enterprise | Registration No: 202503324251 (PG0580106-V)
-            </p>
-            <p className="text-xs text-muted-foreground">
-              Registered in Malaysia | Based in Europe | Malaysian Artist
+              Red Triangle (PG0580106-V)
             </p>
           </div>
         </div>
