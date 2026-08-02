@@ -11,8 +11,8 @@ const Index = () => {
   return (
     <Layout>
       <SEOHead
-        title="Shankares — Original Abstract Art | Malaysian Artist in France"
-        description="Discover original abstract paintings by Shankares, a self-taught Malaysian artist based in France. Unique acrylic artworks on canvas with worldwide shipping."
+        title="Shankares — Original Abstract Art | Malaysian Artist in Europe"
+        description="Discover original abstract paintings by Shankares, a self-taught Malaysian artist based in Europe. Unique acrylic artworks on canvas with worldwide shipping."
         canonical="https://shankares.art/"
       />
       <HeroSlideshow />

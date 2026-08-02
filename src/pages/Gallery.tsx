@@ -158,7 +158,7 @@ const Gallery = () => {
             className="text-muted-foreground max-w-xl mx-auto"
           >
             Discover original abstract paintings. Each work is unique, created with passion 
-            at home in France.
+            at home in Europe.
           </motion.p>
         </div>
       </section>

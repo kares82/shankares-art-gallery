@@ -17,7 +17,7 @@ export const Footer = () => {
               SHANKARES
             </Link>
             <p className="mt-4 text-muted-foreground max-w-md">
-              Original abstract paintings by Malaysian artist Shankares, created in the heart of France. 
+              Original abstract paintings by Malaysian artist Shankares, created in the heart of Europe. 
               Each piece is a unique expression of emotion, color, and movement.
             </p>
           </div>
@@ -76,7 +76,7 @@ export const Footer = () => {
               Red Triangle Enterprise | Registration No: 202503324251 (PG0580106-V)
             </p>
             <p className="text-xs text-muted-foreground">
-              Registered in Malaysia | Based in France | Malaysian Artist
+              Registered in Malaysia | Based in Europe | Malaysian Artist
             </p>
           </div>
         </div>

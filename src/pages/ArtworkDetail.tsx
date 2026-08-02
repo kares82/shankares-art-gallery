@@ -282,7 +282,7 @@ const ArtworkDetail = () => {
                   </AccordionTrigger>
                   <AccordionContent className="text-sm text-muted-foreground">
                     <p className="mb-3">
-                      Shankares is a Malaysian abstract artist based in France. His work 
+                      Shankares is a Malaysian abstract artist based in Europe. His work 
                       explores the interplay of Eastern philosophy and Western expressionism.
                     </p>
                     <Link
