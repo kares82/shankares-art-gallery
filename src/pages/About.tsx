@@ -38,7 +38,7 @@ const About = () => {
             transition={{ delay: 0.1 }}
             className="text-muted-foreground max-w-xl mx-auto"
           >
-            Malaysian artist creating from the heart of France
+            Malaysian artist creating from the heart of Europe
           </motion.p>
         </div>
       </section>
@@ -46,33 +46,18 @@ const About = () => {
       {/* Bio Section */}
       <section className="section-spacing">
         <div className="gallery-container">
-          <div className="grid md:grid-cols-2 gap-12 md:gap-20 items-start">
-            {/* Portrait */}
-            <motion.div
-              initial={{ opacity: 0, x: -30 }}
-              whileInView={{ opacity: 1, x: 0 }}
-              viewport={{ once: true }}
-              transition={{ duration: 0.8 }}
-            >
-              <img
-                src={artistPortrait}
-                alt="Shankares, Malaysian abstract artist based in France, in his studio"
-                className="w-full max-w-md shadow-artwork"
-                loading="lazy"
-              />
-            </motion.div>
-
+          <div className="max-w-4xl mx-auto">
             {/* Bio Content */}
             <motion.div
-              initial={{ opacity: 0, x: 30 }}
-              whileInView={{ opacity: 1, x: 0 }}
+              initial={{ opacity: 0, y: 20 }}
+              whileInView={{ opacity: 1, y: 0 }}
               viewport={{ once: true }}
               transition={{ duration: 0.8 }}
               className="space-y-6"
             >
               <div>
                 <span className="text-sm tracking-gallery uppercase text-muted-foreground">
-                  Malaysian Artist in France
+                  Malaysian Artist Based in Europe
                 </span>
                 <h2 className="font-display text-3xl md:text-4xl mt-2">
                   Shankares
@@ -81,7 +66,7 @@ const About = () => {
 
               <div className="space-y-4 text-muted-foreground leading-relaxed">
                 <p>
-                  I'm Shankares, Malaysian, living in France.
+                  I'm Shankares, a Malaysian artist based in Europe.
                 </p>
 
                 <p>
@@ -99,7 +84,7 @@ const About = () => {
                 </p>
 
                 <p>
-                  Living between Malaysian roots and French everyday life probably influences my 
+                  Living between Malaysian roots and European everyday life probably influences my 
                   comfort with things that exist in-between: not quite abstract, not quite 
                   figurative, not fitting into neat categories.
                 </p>
