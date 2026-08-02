@@ -1,17 +1,15 @@
 import { motion } from 'framer-motion';
 import { Layout } from '@/components/layout/Layout';
 import { SEOHead } from '@/components/SEOHead';
-import artistPortrait from '@/assets/artist-portrait.jpg';
 
 const aboutJsonLd = {
   '@context': 'https://schema.org',
   '@type': 'Person',
   name: 'Shankares',
   jobTitle: 'Abstract Artist',
-  description: 'Self-taught Malaysian abstract artist based in France, creating original acrylic paintings that explore the space between abstract and figurative art.',
+  description: 'Self-taught Malaysian abstract artist based in Europe, creating original acrylic paintings that explore the space between abstract and figurative art.',
   nationality: 'Malaysian',
-  workLocation: { '@type': 'Place', name: 'France' },
-  image: artistPortrait,
+  workLocation: { '@type': 'Place', name: 'Europe' },
   sameAs: ['https://instagram.com/shankares.art'],
 };
 
