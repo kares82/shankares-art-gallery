@@ -66,32 +66,15 @@ const About = () => {
 
               <div className="space-y-4 text-muted-foreground leading-relaxed">
                 <p>
-                  I'm Shankares, a Malaysian artist based in Europe.
+                  I'm Shankares. Self-taught, Malaysian, based in Europe.
                 </p>
 
                 <p>
-                  I'm completely self-taught, which means I paint the way I want to paint, following 
-                  instinct rather than rules. My work ranges from textured abstractions in deep blues 
-                  and teals to pieces where figures or landscapes emerge from the paint. I love 
-                  imperfection: the drips, the visible brushstrokes, the moments where control 
-                  gives way to chance.
+                  I paint by instinct, not rules. My work shifts between abstraction and something almost recognizable: a figure, a landscape, a feeling. Usually led by mood rather than a plan.
                 </p>
 
                 <p>
-                  I work in acrylics at home, usually responding to mood or music rather 
-                  than working from a plan. Each piece is an original, and each one is a conversation 
-                  between intention and accident.
-                </p>
-
-                <p>
-                  Living between Malaysian roots and European everyday life probably influences my 
-                  comfort with things that exist in-between: not quite abstract, not quite 
-                  figurative, not fitting into neat categories.
-                </p>
-
-                <p>
-                  If you're drawn to art that feels honest and unpolished, you might connect with 
-                  what I make.
+                  I don't chase perfection. The drips and visible brushstrokes stay. That's the work.
                 </p>
               </div>
             </motion.div>
